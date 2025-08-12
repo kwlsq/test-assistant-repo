@@ -3,6 +3,7 @@
 This is a test repository for verifying the skills of an assistant.
 
 ## Table of Contents
+
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
@@ -10,29 +11,33 @@ This is a test repository for verifying the skills of an assistant.
 - [License](#license)
 
 ## Description
+
 This repository is created to evaluate the assistant's ability to use Git, VSCode, and Markdown.
 
 ## Installation Instructions
+
 1. Clone the repository:
-    ```sh
-    git clone <https://github.com/YOUR_USERNAME/test-assistant-repo.git>
-    ```
+   ```sh
+   git clone https://github.com/kwlsq/test-assistant-repo.git
+   ```
 2. Navigate to the repository directory:
-    ```sh
-    cd test-assistant-repo
-    ```
+   ```sh
+   cd test-assistant-repo
+   ```
 3. Install dependencies:
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 
 ## Usage
+
 To start the React application, use the following command:
-    ```sh
+`sh
     npm start
-    ```
+    `
 
 ## Contributing
+
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -m 'Add some feature'`).
@@ -40,4 +45,5 @@ To start the React application, use the following command:
 5. Open a pull request.
 
 ## License
+
 This project is licensed under the MIT License.
